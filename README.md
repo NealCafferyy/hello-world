@@ -1,2 +1,4 @@
 # hello-world
-just for test
+
+Hi, I'm newbie.
+I'm interested in open-source.
